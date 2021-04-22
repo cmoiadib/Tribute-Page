@@ -19,11 +19,6 @@ body {
     
 }
 
-#image {
-    max-width: 100%;
-    height: auto;
-}
-
 #title-p {
     text-align: center;
     margin: 20px;
@@ -62,3 +57,10 @@ ul {
   a:visited {
     color: #74638F;
   }
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
